@@ -35,3 +35,24 @@
       <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
    </a>
 </div>
+
+</br>
+
+<div align="center">
+   
+[**About**](#-about)&nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Features**](#-features) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Techs**](#-techs) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Layout**](#-layout) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Installation and Execution**](#-installantion-and-execution) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**How to Contribute**](#-how-to-contribute) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Contact**](#-contact) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**License**](#-license)
+
+</div>
+
+## 📃 About
+
+**Podcastr** is a project developed during the React track of the fifth edition of Next Level Week, an online event produced by [**Rocketseat**](https://github.com/Rocketseat).
+
+This is a web application that allows users to listen to their favorite podcasts, see the latest releases, and obtain more information about the podcasts they are currently listening to.
