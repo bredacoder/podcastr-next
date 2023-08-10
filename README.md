@@ -94,7 +94,7 @@ To download the source code of the project to your machine, you will first need 
 With Git installed, open your terminal and execute the following command:
 
 ```bash
-git clone https://github.com/mathrb22/podcastrnext.git
+git clone https://github.com/bredacoder/podcastr-next
 ```
 
 To install the project dependencies and run the project, you will need to have Node.js installed on your machine, which includes NPM. Once you have Node.js installed:
@@ -110,7 +110,7 @@ Run the project:
 ```bash
 npm run dev
 
-# ou
+# or
 
 yarn dev
 
