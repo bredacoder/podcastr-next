@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "json-server server.json -w -d 750 -p 3333 & next build",
     "start": "next start",
-    "server": "json-server server.json -w -d 750 -p 3333"
+    "server": ""
   },
   "dependencies": {
     "axios": "^0.21.1",
